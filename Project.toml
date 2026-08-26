@@ -18,9 +18,9 @@ DataInterpolationsNDSymbolicsExt = ["SymbolicUtils", "Symbolics"]
 
 [compat]
 Adapt = "4.3.0"
-DataInterpolations = "8"
+DataInterpolations = "9"
 EllipsisNotation = "1.8.0"
-ForwardDiff = "0"
+ForwardDiff = "1"
 KernelAbstractions = "0.9.34"
 PrecompileTools = "1.2.1"
 Random = "1"
